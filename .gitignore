@@ -1,0 +1,4 @@
+.idea
+.venv
+apps/migrations
+management/migrations
